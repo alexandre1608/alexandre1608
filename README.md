@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandre1608
-- 👀 I’m interested in JS and Magic
+- 👀 I’m interested in JS and Gym
 - 🌱 I’m currently learning ReactJS
 
 <!---
