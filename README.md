@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandre1608
 - 👀 I’m interested in JS and Gym
-- 🌱 I’m currently learning ReactJS
+- Estou aprendendo a programar
 
 <!---
 alexandre1608/alexandre1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
